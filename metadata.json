@@ -1,0 +1,6 @@
+{
+  "name": "Smash Fighting",
+  "description": "A fully playable platformer fighting game in the style of Super Smash Bros with damage-scaled knockback, multiple characters, local multiplayer, AI CPU opponent, dynamic camera, and visual/audio effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
